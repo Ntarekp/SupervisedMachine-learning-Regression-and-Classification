@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Use the same style as DeepLearning.AI courses
+# if you have got the file
 #plt.style.use('./deeplearning.mplstyle')  # Ensure you have this style or comment this line
 
 # 1. Training Data
